@@ -1,5 +1,3 @@
-Hi, I’m Ben, a programming student in Waukee.
-
-- 👀 I’m interested in everything programming
-- 🌱 I’m currently learning web development
-- 📫 bboonstra26@gmail.com
+Check out my work: https://bboonstra.github.io/
+Reach out: <a href="mailto:bboonstra26@gmail.com>bboonstra26@gmail.com</a>
+Code Cool Stuff!
