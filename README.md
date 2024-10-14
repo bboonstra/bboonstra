@@ -2,23 +2,17 @@
 
 ![stats](https://github-readme-stats.vercel.app/api?username=bboonstra&show_icons=true&theme=radical&hide_rank=true)
 [![streak](https://github-readme-streak-stats.herokuapp.com?user=bboonstra&theme=radical&card_width=195&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
+<br/>
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bboonstra&theme=radical&card_width=503&layout=compact)
 
 <a href="https://bboonstra.github.io/">
-  <img src="https://img.shields.io/badge/-Portfolio-44BAA2?style=for-the-badge" alt="Personal Website" /></a>
+  <img src="https://img.shields.io/badge/-Portfolio-44BAA2?style=for-the-badge&logo=barmenia&logoColor=white" alt="Personal Website" /></a>
 
 <a href="https://www.linkedin.com/in/ben-boonstra-38b96a262/">
   <img src="https://img.shields.io/badge/Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 <a href="https://bboonstra.itch.io/">
   <img src="https://img.shields.io/badge/-My%20Games-red?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io" /></a>
-
-## 🛠 What I use
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## 🏆 Stuff I'm Proud Of
 
