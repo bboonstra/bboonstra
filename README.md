@@ -3,9 +3,9 @@
 ![stats](https://github-readme-stats.vercel.app/api?username=bboonstra&show_icons=true&theme=radical&hide_rank=true)
 ![streak](https://github-readme-streak-stats.herokuapp.com?user=bboonstra&theme=radical&card_width=195&hide_total_contributions=true&hide_longest_streak=true)
 <br/>
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bboonstra&theme=radical&card_width=500&layout=compact)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bboonstra&theme=radical&card_width=500&layout=compact&langs_count=6)
 <br/>
-![time](https://github-readme-stats.vercel.app/api/wakatime?username=bboonstra&theme=radical&api_domain=wakapi.dev&custom_title=Time%20Spent%20Programming)
+![time](https://github-readme-stats.vercel.app/api/wakatime?username=bboonstra&theme=radical&layout=compact&api_domain=wakapi.dev&custom_title=Time%20Spent%20Programming&langs_count=9)
 
 <a href="https://bboonstra.github.io/">
   <img src="https://img.shields.io/badge/-Portfolio-44BAA2?style=for-the-badge&logo=barmenia&logoColor=white" alt="Personal Website" /></a>
