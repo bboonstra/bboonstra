@@ -9,7 +9,7 @@
 
 <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&amp;logo=leetcode&amp;label=LeetCode%20Problems%20Solved&amp;query=totalSolved&amp;url=https://leetcode-stats-api.herokuapp.com/bboonstra&amp;color=darkorange" alt="LeetCode Problems Solved">
 
-<img src="https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/bboonstra/interval:day&amp;style=for-the-badge&amp;label=Time%20coding%20today&amp;logo=clockify&amp;logoColor=white&amp;color=seagreen" alt="Time Coding Today">
+<img src="https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/bboonstra/interval:today&amp;style=for-the-badge&amp;label=Time%20coding%20today&amp;logo=clockify&amp;logoColor=white&amp;color=seagreen" alt="Time Coding Today">
 
 <br/>
 
