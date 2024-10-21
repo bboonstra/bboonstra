@@ -7,7 +7,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=bboonstra&theme=radical&row=1&column=3&margin-w=84" alt="Trophies" />
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bboonstra&theme=radical&layout=compact&api_domain=wakapi.dev&custom_title=Time%20Programming%20(Past%20Year)&langs_count=6" alt="Wakatime Stats" />
-
+<br/><br/>
 <a href="https://leetcode.com/u/bboonstra/"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&amp;logo=leetcode&amp;label=LeetCode%20Problems%20Solved&amp;query=totalSolved&amp;url=https://leetcode-stats-api.herokuapp.com/bboonstra&amp;color=darkorange" alt="LeetCode Problems Solved"></a>
 <a href="https://wakatime.com/@bboonstra"><img src="https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/bboonstra/interval:today&amp;style=for-the-badge&amp;label=Time%20coding%20today&amp;logo=clockify&amp;logoColor=white&amp;color=seagreen" alt="Time Coding Today"></a>
 <br/>
