@@ -9,7 +9,7 @@
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bboonstra&theme=radical&layout=compact&api_domain=wakapi.dev&custom_title=Time%20Programming%20(Past%20Year)&langs_count=6" alt="Wakatime Stats" />
 <br/><br/>
-<a href="https://bboonstra.github.io/Effortless"><img src="https://img.shields.io/badge/Current%20Status-Programming%20robots-blueviolet?style=for-the-badge&logo=coding" alt="Current Status" /></a>
+<a href="https://bboonstra.github.io/Effortless"><img src="https://img.shields.io/badge/Current%20Status-Learning%20rust-blueviolet?style=for-the-badge&logo=coding" alt="Current Status" /></a>
 <br/>
 <a href="https://bboonstra.github.io/">
   <img src="https://img.shields.io/badge/-Portfolio-44BAA2?style=for-the-badge&logo=barmenia&logoColor=white" alt="Personal Website" /></a>
