@@ -9,6 +9,10 @@
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bboonstra&theme=radical&layout=compact&api_domain=wakapi.dev&custom_title=Time%20Programming%20(Past%20Year)&langs_count=6" alt="Wakatime Stats" />
 <br/><br/>
+
+<a href="https://bboonstra.dev/"><b>bboonstra.dev</b></a>
+<br/><br/>
+
 <a href="https://bboonstra.github.io/Effortless"><img src="https://img.shields.io/badge/Current%20Status-Learning%20rust-blueviolet?style=for-the-badge&logo=coding" alt="Current Status" /></a>
 <br/>
 <a href="https://bboonstra.github.io/">
@@ -20,19 +24,6 @@
 <br/>
 <a href="https://leetcode.com/u/bboonstra/"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&amp;logo=leetcode&amp;label=LeetCode%20Problems%20Solved&amp;query=totalSolved&amp;url=https://leetcode-stats-api.herokuapp.com/bboonstra&amp;color=darkorange" alt="LeetCode Problems Solved"></a>
 <a href="https://wakatime.com/@bboonstra"><img src="https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/bboonstra/interval:today&amp;style=for-the-badge&amp;label=Time%20coding%20today&amp;logo=clockify&amp;logoColor=white&amp;color=seagreen" alt="Time Coding Today"></a>
-
-## 🏆 Stuff I'm Proud Of
-
-[Guanaco Trade](https://github.com/bboonstra/guanaco-trade) - Stock market predictions with Generative AI <br/>
-[idlegame](https://github.com/bboonstra/idlegame) - Learn the command-line through a ZSH-based python package <br/>
-[PipEmbeds](https://pipembeds.com) - Django-based API for fetching and embedding PyPI package thumbnails <br/>
-
-## 🎮 Recent Projects
-
-**[Unknown Universe](https://bboonstra.itch.io/unknown-universe)** - A Godot-made roguelike where your spaceship orbits hostile planets while they shoot back. <br/>
-**[idlegame](https://github.com/bboonstra/idlegame)** - A command-line based Python game that teaches ZSH while entertaining you. <br/>
-
-## 📬 Hit me up
 
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bboonstra26@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ben-boonstra-38b96a262/)
