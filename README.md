@@ -22,7 +22,6 @@
 <a href="https://bboonstra.itch.io/">
   <img src="https://img.shields.io/badge/-My%20Games-red?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io" /></a>
 <br/>
-<a href="https://leetcode.com/u/bboonstra/"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&amp;logo=leetcode&amp;label=LeetCode%20Problems%20Solved&amp;query=totalSolved&amp;url=https://leetcode-stats-api.herokuapp.com/bboonstra&amp;color=darkorange" alt="LeetCode Problems Solved"></a>
 <a href="https://wakatime.com/@bboonstra"><img src="https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/bboonstra/interval:today&amp;style=for-the-badge&amp;label=Time%20coding%20today&amp;logo=clockify&amp;logoColor=white&amp;color=seagreen" alt="Time Coding Today"></a>
 
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bboonstra26@gmail.com)
